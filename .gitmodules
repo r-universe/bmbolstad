@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "affyio"]
+	path = affyio
+	url = https://github.com/bmbolstad/affyio
+	shallow = true
+	registered = true
+[submodule "affyPLM"]
+	path = affyPLM
+	url = https://github.com/bmbolstad/affyplm
+	shallow = true
+	registered = true
+[submodule "BufferedMatrix"]
+	path = BufferedMatrix
+	url = https://github.com/bmbolstad/bufferedmatrix
+	shallow = true
+	registered = true
+[submodule "preprocessCore"]
+	path = preprocessCore
+	url = https://github.com/bmbolstad/preprocesscore
+	shallow = true
+	registered = true

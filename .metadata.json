@@ -1,0 +1,14 @@
+[
+  {
+    "package": "affyio"
+  },
+  {
+    "package": "affyPLM"
+  },
+  {
+    "package": "BufferedMatrix"
+  },
+  {
+    "package": "preprocessCore"
+  }
+]
