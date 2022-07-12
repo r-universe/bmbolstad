@@ -18,8 +18,3 @@
 	url = https://github.com/bmbolstad/bufferedmatrix
 	shallow = true
 	registered = true
-[submodule "preprocessCore"]
-	path = preprocessCore
-	url = https://github.com/bmbolstad/preprocesscore
-	shallow = true
-	registered = true
