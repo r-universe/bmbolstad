@@ -7,5 +7,8 @@
   },
   {
     "package": "BufferedMatrix"
+  },
+  {
+    "package": "preprocessCore"
   }
 ]
