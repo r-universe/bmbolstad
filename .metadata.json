@@ -1,6 +1,6 @@
 [
   {
-    "package": "affyio"
+    "package": "preprocessCore"
   },
   {
     "package": "affyPLM"
@@ -9,6 +9,6 @@
     "package": "BufferedMatrix"
   },
   {
-    "package": "preprocessCore"
+    "package": "affyio"
   }
 ]
