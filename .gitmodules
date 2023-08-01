@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "affyio"]
-	path = affyio
-	url = https://github.com/bmbolstad/affyio
-[submodule "affyPLM"]
-	path = affyPLM
-	url = https://github.com/bmbolstad/affyplm
 [submodule "BufferedMatrix"]
 	path = BufferedMatrix
 	url = https://github.com/bmbolstad/bufferedmatrix
+[submodule "affyPLM"]
+	path = affyPLM
+	url = https://github.com/bmbolstad/affyplm
+[submodule "affyio"]
+	path = affyio
+	url = https://github.com/bmbolstad/affyio
 [submodule "preprocessCore"]
 	path = preprocessCore
 	url = https://github.com/bmbolstad/preprocesscore
